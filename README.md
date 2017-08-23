@@ -21,3 +21,5 @@ DPV: Sections 0.3, 2.1, 2.3
 KT: Sections 2.1, 2.2, 2.4, and 5.1
 
 SW: Sections 1.4 and 2.2
+
+[Mathematics for computer science](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)
