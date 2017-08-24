@@ -139,11 +139,13 @@ The main areas software engineers should prepare to succeed at interview at Goog
   - Sample topics: biggest challenges faced, best/worst designs seen, performance analysis and optimization, testing, ideas for improving existing products.
 
 Last, But Not Least....
+
 In addition to the interview prep materials attached, you would want to visit www.topcoder.com to familiarize yourself with the overall approach to design, algorithm creation, and implementation (coding) of programming based problems. 
 
 Furthermore, you can take a nice look at the any open source projects, along with a sample google app engine project then work on those physically. Keep in mind that we want to ensure that you have all the time you need to make yourself as comfortable as possible interviewing with us! 
 
 Supplemental Readings & Book Suggestions
-Programming Interviews Exposed: Secrets to Landing Your Next Job by John Mongan and Noah Suojanen
-Programming Pearls by Jon Bentley
-Cormen/Leiserson/Rivest/Stein: Introduction to Algorithms or the CLR textbook.
+
+- Programming Interviews Exposed: Secrets to Landing Your Next Job by John Mongan and Noah Suojanen
+- Programming Pearls by Jon Bentley
+- Cormen/Leiserson/Rivest/Stein: Introduction to Algorithms or the CLR textbook.
