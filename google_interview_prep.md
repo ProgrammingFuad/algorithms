@@ -1,14 +1,22 @@
 # Google Interview Prep
 
 ### Preparation Materials:
-YouTube Videos & Important Links:
-[Preparing for Google's Technical Interview #1](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
-[Preparing for Google’s Technical Interview #2](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
-[Tips to interviewing at Google](https://www.youtube.com/watch?v=w887NIa_V9w)
-[Do Cool Things That Matter](https://careers.google.com/)
-[Peruse papers written by Googlers](https://research.google.com/pubs/papers.html)
-[Life at Google](https://www.youtube.com/lifeatgoogle)
-[The Faces and Voices of Google article](https://www.fastcompany.com/703050/google-2)
+
+### YouTube Videos & Important Links:
+
+- [Preparing for Google's Technical Interview #1](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
+
+- [Preparing for Google’s Technical Interview #2](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
+
+- [Tips to interviewing at Google](https://www.youtube.com/watch?v=w887NIa_V9w)
+
+- [Do Cool Things That Matter](https://careers.google.com/)
+
+- [Peruse papers written by Googlers](https://research.google.com/pubs/papers.html)
+
+- [Life at Google](https://www.youtube.com/lifeatgoogle)
+
+- [The Faces and Voices of Google article](https://www.fastcompany.com/703050/google-2)
 
 Note: We strongly encourage you to review the above videos.  The videos feature Googlers who have been both interviewers and interviewees sharing their unique perspective on how to prepare for Google's technical interviews!  The principles are applicable to a technical phone interview or onsite interview.
 
